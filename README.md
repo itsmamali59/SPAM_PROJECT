@@ -8,3 +8,6 @@ This is a Machine Learning web app built using Flask.
 - Python
 - Flask
 - Machine Learning
+## Output Screenshot
+![Output](output.png)
+
